@@ -2,5 +2,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://scm.zremal.org/Nicolas/argocd-zremal-production
-    targetRevision: main
+    repoURL: https://github.com/nicosto/argocd_apps
+    targetRevision: master
