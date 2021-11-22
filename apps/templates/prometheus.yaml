@@ -36,7 +36,7 @@ spec:
               - grafana.k3s.zremal.org
         prometheus:
           thanosIngress:
-            enabled: true
+            enabled: false
             hosts:
               - thanos-gateway.k3s.zremal.org
           ingress:
