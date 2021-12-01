@@ -13,7 +13,7 @@ spec:
   source:
     path: .
     repoURL: https://github.com/nicosto/jenkins
-    targetRevision: master
+    targetRevision: main
   syncPolicy:
     automated:
       prune: true
